@@ -9,5 +9,6 @@ public class SpringCoreDevOpsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringCoreDevOpsApplication.class, args);
                 //este es un test de espacio en blanco
+                //otro test
 	}
 }
